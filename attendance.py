@@ -1,3 +1,4 @@
+import pandas as pd
 # Sample input (already filled in for you)
 scans = ["S104", "S221", "S104", "S387", "S221", "S150", "S104"]
 
